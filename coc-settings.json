@@ -1,0 +1,6 @@
+{
+    "java.home": "/Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home",
+    "java.jdt.ls.vmargs": "-javaagent:/Users/dypan/my/lombok.jar -noverify -Xmx6G -Xms6G -Xmn3G -XX:G1HeapRegionSize=16m -XX:G1ReservePercent=25 -XX:InitiatingHeapOccupancyPercent=30 -XX:+UseG1GC -XX:+UseStringDeduplication",
+    "java.format.enabled": true,
+    "clangd.path": "/Users/dypan/.config/coc/extensions/coc-clangd-data/install/12.0.0/clangd_12.0.0/bin/clangd"
+}
