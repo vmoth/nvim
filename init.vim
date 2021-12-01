@@ -60,7 +60,7 @@ set colorcolumn=80
 autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
 
 " vundle 环境设置
-call plug#begin('~/.vim/plugged')
+call plug#begin('~/.config/plug')
 filetype off
 set rtp+=~/.vim/bundle/Vundle.vim
 " vundle 管理的插件列表必须位于 vundle#begin() 和 vundle#end() 之间
